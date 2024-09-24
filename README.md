@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChJagadeesh46
+- 👋 Hi, I’m ChJagadeesh
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on ...
